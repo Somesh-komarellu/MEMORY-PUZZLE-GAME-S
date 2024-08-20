@@ -1,4 +1,6 @@
-#Memory Puzzle game 
+#Memory-Puzzle-game
+
+
 This project is a simple memory puzzle game developed in Python. The game challenges players to match pairs of hidden images or cards by remembering their positions on the board. It's a fun way to test and improve memory skills.
 
 Features:
